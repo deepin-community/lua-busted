@@ -1,0 +1,3 @@
+include @@TEMPLATE@@/lib.install.in
+bin/busted usr/bin/
+completions/zsh/_busted usr/share/zsh/vendor-completions/
